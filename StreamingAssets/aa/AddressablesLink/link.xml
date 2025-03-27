@@ -3,20 +3,40 @@
     <type fullname="ABaseMergable" preserve="all" />
     <type fullname="ABaseTaskContainer" preserve="all" />
     <type fullname="ActorView" preserve="all" />
+    <type fullname="AspectRatioControl" preserve="all" />
+    <type fullname="ChallengeMilestoneRewardItemView" preserve="all" />
+    <type fullname="ChallengeMilestoneView" preserve="all" />
+    <type fullname="ChallengeUI" preserve="all" />
     <type fullname="CutsceneScene" preserve="all" />
-    <type fullname="EpisodeBtn" preserve="all" />
+    <type fullname="EnergyRewardView" preserve="all" />
     <type fullname="FadeUiAnimation" preserve="all" />
     <type fullname="FullTaskView" preserve="all" />
     <type fullname="GameScene" preserve="all" />
     <type fullname="GridDescriptionView" preserve="all" />
+    <type fullname="GridElementRewardView" preserve="all" />
     <type fullname="GridElementView" preserve="all" />
     <type fullname="GridView" preserve="all" />
-    <type fullname="LeaderBoardUI" preserve="all" />
     <type fullname="LoadingScene" preserve="all" />
+    <type fullname="MainGameEnergyView" preserve="all" />
+    <type fullname="MainGameExitPopup" preserve="all" />
     <type fullname="MainGameUI" preserve="all" />
     <type fullname="MainMenuScene" preserve="all" />
+    <type fullname="MetaBoxView" preserve="all" />
+    <type fullname="NumberCasingsConfigSO" preserve="all" />
     <type fullname="PhraseView" preserve="all" />
+    <type fullname="RewardScreenUI" preserve="all" />
+    <type fullname="ShortTaskView" preserve="all" />
     <type fullname="TasksUI" preserve="all" />
+    <type fullname="TutorialMessage" preserve="all" />
+    <type fullname="TutorialUI" preserve="all" />
+    <type fullname="EGridElementState" preserve="nothing" serialized="true" />
+    <type fullname="EnumDict`2" preserve="nothing" serialized="true" />
+    <type fullname="EnumDict`2/EnumDictElement" preserve="nothing" serialized="true" />
+    <type fullname="GridDescriptionView/EButtonSellType" preserve="nothing" serialized="true" />
+    <type fullname="GridDescriptionView/EGridDescriptionType" preserve="nothing" serialized="true" />
+    <type fullname="IRewardScreen/EHeaderType" preserve="nothing" serialized="true" />
+    <type fullname="ChallengeMilestoneRewardItemView/EAcquisitionType" preserve="nothing" serialized="true" />
+    <type fullname="NumberCasingsConfigSO/ENumberCase" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -38,6 +58,7 @@
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
     <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.LigatureSubstitutionRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
@@ -60,6 +81,7 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
@@ -67,6 +89,7 @@
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
@@ -78,14 +101,16 @@
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
-    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />

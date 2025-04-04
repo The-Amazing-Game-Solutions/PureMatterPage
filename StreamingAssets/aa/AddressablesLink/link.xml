@@ -4,6 +4,7 @@
     <type fullname="ABaseTaskContainer" preserve="all" />
     <type fullname="ActorView" preserve="all" />
     <type fullname="AspectRatioControl" preserve="all" />
+    <type fullname="BounceAnimation" preserve="all" />
     <type fullname="ChallengeMilestoneRewardItemView" preserve="all" />
     <type fullname="ChallengeMilestoneView" preserve="all" />
     <type fullname="ChallengeUI" preserve="all" />
@@ -30,6 +31,7 @@
     <type fullname="TasksUI" preserve="all" />
     <type fullname="TutorialMessage" preserve="all" />
     <type fullname="TutorialUI" preserve="all" />
+    <type fullname="UIObjectAnimator" preserve="all" />
     <type fullname="EGridElementState" preserve="nothing" serialized="true" />
     <type fullname="EnumDict`2" preserve="nothing" serialized="true" />
     <type fullname="EnumDict`2/EnumDictElement" preserve="nothing" serialized="true" />
@@ -38,6 +40,9 @@
     <type fullname="IRewardScreen/EHeaderType" preserve="nothing" serialized="true" />
     <type fullname="ChallengeMilestoneRewardItemView/EAcquisitionType" preserve="nothing" serialized="true" />
     <type fullname="NumberCasingsConfigSO/ENumberCase" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UniRx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UniRx.Triggers.ObservableDestroyTrigger" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -86,6 +91,10 @@
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
@@ -102,6 +111,7 @@
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />

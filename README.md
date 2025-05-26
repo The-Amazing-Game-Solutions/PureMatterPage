@@ -1,2 +1,2 @@
 # PureMatterPage
-A page with PureMatter's build
+A page with PureMatter's build.
